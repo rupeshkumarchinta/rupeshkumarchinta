@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rupesh Chinta</h1>
 <h3 align="center">Full Stack Developer | Machine Learning | Python Enthusiast</h3>
 
+- ✅ Project 1 [EV Charging Stations Website](https://github.com/rupeshkumarchinta/CHARGE-HERE-)
+
+- 🌱 I’m currently learning **React · Django · Advanced Machine Learning Techniques**
+
+- ✅ Project 2 [Short-Term Electricity Load Forecasting](https://github.com/rupeshkumarchinta/internz/blob/main/short_term%20electricity%20load%20forecast.ipynb)
+
+- ✅ Project 3 [Content-Based Movie Recommendation System](https://github.com/rupeshkumarchinta/internz1/blob/main/Movie_recomendations_ML_project.ipynb)
+
 - 👨‍💻 All of my projects are available at [https://www.vitaely.me/rupesh_chinta](https://www.vitaely.me/rupesh_chinta)
+
+- 💬 Ask me about **Python · Web Development · Data Science · Renewable Energy Modelling**
 
 - 📫 How to reach me **rupeshkumar30032002@gmail.com**
 
